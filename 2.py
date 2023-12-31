@@ -1,5 +1,5 @@
 import time
-DAY = 1
+DAY = 2
 
 def f(file_path):
   s = 0
